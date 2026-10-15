@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-15T03:05:36.853124+00:00",
+  "updated_at": "2026-10-15T17:47:41.804957+00:00",
   "collector_status": "ok",
   "source": "CPP official eventMainListV2 endpoint (unofficial access)",
   "api_url": "https://www.allcpp.cn/allcpp/event/eventMainListV2.do",
@@ -18,19 +18,34 @@
     "湖州",
     "南通",
     "ONLY",
-    "TRPG"
+    "TRPG",
+    "Galgame",
+    "美少女游戏",
+    "视觉小说",
+    "Key",
+    "柚子社",
+    "型月",
+    "月姬",
+    "Fate",
+    "白色相簿",
+    "Nitro+Chiral",
+    "叙事洲",
+    "SLO",
+    "SlashOnly",
+    "欧美同人",
+    "冬日来信"
   ],
   "failed_keywords": [],
   "warnings": {},
   "keyword_counts": {
     "杭州": {
-      "total_reported": 31,
-      "fetched": 31,
+      "total_reported": 32,
+      "fetched": 32,
       "truncated": false
     },
     "上海": {
-      "total_reported": 37,
-      "fetched": 37,
+      "total_reported": 39,
+      "fetched": 39,
       "truncated": false
     },
     "南京": {
@@ -89,15 +104,90 @@
       "truncated": false
     },
     "ONLY": {
-      "total_reported": 191,
-      "fetched": 80,
-      "truncated": true
+      "total_reported": 192,
+      "fetched": 192,
+      "truncated": false
     },
     "TRPG": {
       "total_reported": 1,
       "fetched": 1,
       "truncated": false
+    },
+    "Galgame": {
+      "total_reported": 0,
+      "fetched": 0,
+      "truncated": false
+    },
+    "美少女游戏": {
+      "total_reported": 0,
+      "fetched": 0,
+      "truncated": false
+    },
+    "视觉小说": {
+      "total_reported": 0,
+      "fetched": 0,
+      "truncated": false
+    },
+    "Key": {
+      "total_reported": 0,
+      "fetched": 0,
+      "truncated": false
+    },
+    "柚子社": {
+      "total_reported": 0,
+      "fetched": 0,
+      "truncated": false
+    },
+    "型月": {
+      "total_reported": 3,
+      "fetched": 3,
+      "truncated": false
+    },
+    "月姬": {
+      "total_reported": 2,
+      "fetched": 2,
+      "truncated": false
+    },
+    "Fate": {
+      "total_reported": 3,
+      "fetched": 3,
+      "truncated": false
+    },
+    "白色相簿": {
+      "total_reported": 0,
+      "fetched": 0,
+      "truncated": false
+    },
+    "Nitro+Chiral": {
+      "total_reported": 1,
+      "fetched": 1,
+      "truncated": false
+    },
+    "叙事洲": {
+      "total_reported": 0,
+      "fetched": 0,
+      "truncated": false
+    },
+    "SLO": {
+      "total_reported": 2,
+      "fetched": 2,
+      "truncated": false
+    },
+    "SlashOnly": {
+      "total_reported": 2,
+      "fetched": 2,
+      "truncated": false
+    },
+    "欧美同人": {
+      "total_reported": 6,
+      "fetched": 6,
+      "truncated": false
+    },
+    "冬日来信": {
+      "total_reported": 1,
+      "fetched": 1,
+      "truncated": false
     }
   },
-  "event_count": 136
+  "event_count": 215
 }

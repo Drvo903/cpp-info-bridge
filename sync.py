@@ -12,7 +12,7 @@ OUT = ROOT / "data"
 OUT.mkdir(exist_ok=True)
 API = os.getenv("CPP_API_URL", "https://www.allcpp.cn/allcpp/event/eventMainListV2.do")
 KEYWORDS = ["杭州", "上海", "南京", "苏州", "宁波", "无锡", "嘉兴", "绍兴", "常州", "温州", "金华", "湖州", "南通", "ONLY", "TRPG"]
-MAX_PAGES = int(os.getenv("CPP_MAX_PAGES", "8"))
+MAX_PAGES = int(os.getenv("CPP_MAX_PAGES", "30"))
 now = datetime.now(timezone.utc).isoformat()
 errors, events, counts = {}, {}, {}
 

@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-15T03:02:35.966846+00:00",
-  "collector_status": "failed",
-  "source": "CPP_Search third-party API",
-  "api_url": "https://api.mihoyo.su/manzhan.php",
+  "updated_at": "2026-10-15T03:05:36.853124+00:00",
+  "collector_status": "ok",
+  "source": "CPP official eventMainListV2 endpoint (unofficial access)",
+  "api_url": "https://www.allcpp.cn/allcpp/event/eventMainListV2.do",
   "queried_keywords": [
     "杭州",
     "上海",
@@ -20,39 +20,84 @@
     "ONLY",
     "TRPG"
   ],
-  "failed_keywords": [
-    "杭州",
-    "上海",
-    "南京",
-    "苏州",
-    "宁波",
-    "无锡",
-    "嘉兴",
-    "绍兴",
-    "常州",
-    "温州",
-    "金华",
-    "湖州",
-    "南通",
-    "ONLY",
-    "TRPG"
-  ],
-  "warnings": {
-    "杭州": "HTTP Error 521: <none>",
-    "上海": "HTTP Error 521: <none>",
-    "南京": "HTTP Error 521: <none>",
-    "苏州": "HTTP Error 521: <none>",
-    "宁波": "HTTP Error 521: <none>",
-    "无锡": "HTTP Error 521: <none>",
-    "嘉兴": "HTTP Error 521: <none>",
-    "绍兴": "HTTP Error 521: <none>",
-    "常州": "HTTP Error 521: <none>",
-    "温州": "HTTP Error 521: <none>",
-    "金华": "HTTP Error 521: <none>",
-    "湖州": "HTTP Error 521: <none>",
-    "南通": "HTTP Error 521: <none>",
-    "ONLY": "HTTP Error 521: <none>",
-    "TRPG": "HTTP Error 521: <none>"
+  "failed_keywords": [],
+  "warnings": {},
+  "keyword_counts": {
+    "杭州": {
+      "total_reported": 31,
+      "fetched": 31,
+      "truncated": false
+    },
+    "上海": {
+      "total_reported": 37,
+      "fetched": 37,
+      "truncated": false
+    },
+    "南京": {
+      "total_reported": 5,
+      "fetched": 5,
+      "truncated": false
+    },
+    "苏州": {
+      "total_reported": 1,
+      "fetched": 1,
+      "truncated": false
+    },
+    "宁波": {
+      "total_reported": 0,
+      "fetched": 0,
+      "truncated": false
+    },
+    "无锡": {
+      "total_reported": 0,
+      "fetched": 0,
+      "truncated": false
+    },
+    "嘉兴": {
+      "total_reported": 2,
+      "fetched": 2,
+      "truncated": false
+    },
+    "绍兴": {
+      "total_reported": 0,
+      "fetched": 0,
+      "truncated": false
+    },
+    "常州": {
+      "total_reported": 1,
+      "fetched": 1,
+      "truncated": false
+    },
+    "温州": {
+      "total_reported": 0,
+      "fetched": 0,
+      "truncated": false
+    },
+    "金华": {
+      "total_reported": 0,
+      "fetched": 0,
+      "truncated": false
+    },
+    "湖州": {
+      "total_reported": 0,
+      "fetched": 0,
+      "truncated": false
+    },
+    "南通": {
+      "total_reported": 0,
+      "fetched": 0,
+      "truncated": false
+    },
+    "ONLY": {
+      "total_reported": 191,
+      "fetched": 80,
+      "truncated": true
+    },
+    "TRPG": {
+      "total_reported": 1,
+      "fetched": 1,
+      "truncated": false
+    }
   },
-  "event_count": 0
+  "event_count": 136
 }

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26T06:17:42.077057+00:00",
+  "updated_at": "2026-10-26T19:21:27.050846+00:00",
   "collector_status": "ok",
   "source": "CPP official eventMainListV2 endpoint (unofficial access)",
   "api_url": "https://www.allcpp.cn/allcpp/event/eventMainListV2.do",
@@ -39,13 +39,13 @@
   "warnings": {},
   "keyword_counts": {
     "杭州": {
-      "total_reported": 32,
-      "fetched": 32,
+      "total_reported": 33,
+      "fetched": 33,
       "truncated": false
     },
     "上海": {
-      "total_reported": 32,
-      "fetched": 32,
+      "total_reported": 34,
+      "fetched": 34,
       "truncated": false
     },
     "南京": {
@@ -104,8 +104,8 @@
       "truncated": false
     },
     "ONLY": {
-      "total_reported": 160,
-      "fetched": 160,
+      "total_reported": 168,
+      "fetched": 168,
       "truncated": false
     },
     "TRPG": {
@@ -114,8 +114,8 @@
       "truncated": false
     },
     "Galgame": {
-      "total_reported": 0,
-      "fetched": 0,
+      "total_reported": 1,
+      "fetched": 1,
       "truncated": false
     },
     "美少女游戏": {
@@ -124,8 +124,8 @@
       "truncated": false
     },
     "视觉小说": {
-      "total_reported": 0,
-      "fetched": 0,
+      "total_reported": 1,
+      "fetched": 1,
       "truncated": false
     },
     "Key": {
@@ -169,13 +169,13 @@
       "truncated": false
     },
     "SLO": {
-      "total_reported": 2,
-      "fetched": 2,
+      "total_reported": 3,
+      "fetched": 3,
       "truncated": false
     },
     "SlashOnly": {
-      "total_reported": 2,
-      "fetched": 2,
+      "total_reported": 3,
+      "fetched": 3,
       "truncated": false
     },
     "欧美同人": {
@@ -189,5 +189,5 @@
       "truncated": false
     }
   },
-  "event_count": 180
+  "event_count": 189
 }

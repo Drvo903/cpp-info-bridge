@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-27T06:19:48.471227+00:00",
+  "updated_at": "2026-10-27T18:42:51.380696+00:00",
   "collector_status": "ok",
   "source": "CPP official eventMainListV2 endpoint (unofficial access)",
   "api_url": "https://www.allcpp.cn/allcpp/event/eventMainListV2.do",
@@ -39,13 +39,13 @@
   "warnings": {},
   "keyword_counts": {
     "杭州": {
-      "total_reported": 33,
-      "fetched": 33,
+      "total_reported": 34,
+      "fetched": 34,
       "truncated": false
     },
     "上海": {
-      "total_reported": 34,
-      "fetched": 34,
+      "total_reported": 35,
+      "fetched": 35,
       "truncated": false
     },
     "南京": {
@@ -104,8 +104,8 @@
       "truncated": false
     },
     "ONLY": {
-      "total_reported": 168,
-      "fetched": 168,
+      "total_reported": 172,
+      "fetched": 172,
       "truncated": false
     },
     "TRPG": {
@@ -169,18 +169,18 @@
       "truncated": false
     },
     "SLO": {
-      "total_reported": 3,
-      "fetched": 3,
+      "total_reported": 4,
+      "fetched": 4,
       "truncated": false
     },
     "SlashOnly": {
-      "total_reported": 3,
-      "fetched": 3,
+      "total_reported": 4,
+      "fetched": 4,
       "truncated": false
     },
     "欧美同人": {
-      "total_reported": 6,
-      "fetched": 6,
+      "total_reported": 7,
+      "fetched": 7,
       "truncated": false
     },
     "冬日来信": {
@@ -189,5 +189,5 @@
       "truncated": false
     }
   },
-  "event_count": 189
+  "event_count": 193
 }

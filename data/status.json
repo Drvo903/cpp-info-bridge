@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-28T18:52:28.358942+00:00",
+  "updated_at": "2026-10-29T07:09:09.455571+00:00",
   "collector_status": "ok",
   "source": "CPP official eventMainListV2 endpoint (unofficial access)",
   "api_url": "https://www.allcpp.cn/allcpp/event/eventMainListV2.do",
@@ -104,8 +104,8 @@
       "truncated": false
     },
     "ONLY": {
-      "total_reported": 176,
-      "fetched": 176,
+      "total_reported": 178,
+      "fetched": 178,
       "truncated": false
     },
     "TRPG": {
@@ -189,5 +189,5 @@
       "truncated": false
     }
   },
-  "event_count": 197
+  "event_count": 199
 }

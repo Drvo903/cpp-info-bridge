@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-31T07:01:27.897334+00:00",
+  "updated_at": "2026-10-31T17:46:02.126826+00:00",
   "collector_status": "ok",
   "source": "CPP official eventMainListV2 endpoint (unofficial access)",
   "api_url": "https://www.allcpp.cn/allcpp/event/eventMainListV2.do",
@@ -39,18 +39,18 @@
   "warnings": {},
   "keyword_counts": {
     "杭州": {
-      "total_reported": 36,
-      "fetched": 36,
+      "total_reported": 34,
+      "fetched": 34,
       "truncated": false
     },
     "上海": {
-      "total_reported": 35,
-      "fetched": 35,
+      "total_reported": 34,
+      "fetched": 34,
       "truncated": false
     },
     "南京": {
-      "total_reported": 6,
-      "fetched": 6,
+      "total_reported": 4,
+      "fetched": 4,
       "truncated": false
     },
     "苏州": {
@@ -104,8 +104,8 @@
       "truncated": false
     },
     "ONLY": {
-      "total_reported": 185,
-      "fetched": 185,
+      "total_reported": 171,
+      "fetched": 171,
       "truncated": false
     },
     "TRPG": {
@@ -159,8 +159,8 @@
       "truncated": false
     },
     "Nitro+Chiral": {
-      "total_reported": 1,
-      "fetched": 1,
+      "total_reported": 0,
+      "fetched": 0,
       "truncated": false
     },
     "叙事洲": {
@@ -169,18 +169,18 @@
       "truncated": false
     },
     "SLO": {
-      "total_reported": 4,
-      "fetched": 4,
+      "total_reported": 3,
+      "fetched": 3,
       "truncated": false
     },
     "SlashOnly": {
-      "total_reported": 4,
-      "fetched": 4,
+      "total_reported": 3,
+      "fetched": 3,
       "truncated": false
     },
     "欧美同人": {
-      "total_reported": 7,
-      "fetched": 7,
+      "total_reported": 6,
+      "fetched": 6,
       "truncated": false
     },
     "冬日来信": {
@@ -189,5 +189,5 @@
       "truncated": false
     }
   },
-  "event_count": 207
+  "event_count": 191
 }

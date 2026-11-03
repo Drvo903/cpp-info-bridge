@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-03T07:56:58.693681+00:00",
+  "updated_at": "2026-11-03T20:08:18.732919+00:00",
   "collector_status": "ok",
   "source": "CPP official eventMainListV2 endpoint (unofficial access)",
   "api_url": "https://www.allcpp.cn/allcpp/event/eventMainListV2.do",
@@ -84,8 +84,8 @@
       "truncated": false
     },
     "温州": {
-      "total_reported": 0,
-      "fetched": 0,
+      "total_reported": 1,
+      "fetched": 1,
       "truncated": false
     },
     "金华": {
@@ -104,13 +104,13 @@
       "truncated": false
     },
     "ONLY": {
-      "total_reported": 172,
-      "fetched": 172,
+      "total_reported": 174,
+      "fetched": 174,
       "truncated": false
     },
     "TRPG": {
-      "total_reported": 0,
-      "fetched": 0,
+      "total_reported": 1,
+      "fetched": 1,
       "truncated": false
     },
     "Galgame": {
@@ -189,5 +189,5 @@
       "truncated": false
     }
   },
-  "event_count": 191
+  "event_count": 194
 }

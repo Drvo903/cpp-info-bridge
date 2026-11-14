@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-14T07:37:44.436363+00:00",
-  "collector_status": "partial",
+  "updated_at": "2026-11-14T18:45:07.826362+00:00",
+  "collector_status": "ok",
   "source": "CPP official eventMainListV2 endpoint (unofficial access)",
   "api_url": "https://www.allcpp.cn/allcpp/event/eventMainListV2.do",
   "queried_keywords": [
@@ -35,21 +35,17 @@
     "欧美同人",
     "冬日来信"
   ],
-  "failed_keywords": [
-    "ONLY"
-  ],
-  "warnings": {
-    "ONLY": "HTTP Error 502: Bad Gateway"
-  },
+  "failed_keywords": [],
+  "warnings": {},
   "keyword_counts": {
     "杭州": {
-      "total_reported": 34,
-      "fetched": 34,
+      "total_reported": 32,
+      "fetched": 32,
       "truncated": false
     },
     "上海": {
-      "total_reported": 34,
-      "fetched": 34,
+      "total_reported": 31,
+      "fetched": 31,
       "truncated": false
     },
     "南京": {
@@ -105,6 +101,11 @@
     "南通": {
       "total_reported": 0,
       "fetched": 0,
+      "truncated": false
+    },
+    "ONLY": {
+      "total_reported": 169,
+      "fetched": 169,
       "truncated": false
     },
     "TRPG": {
@@ -188,5 +189,5 @@
       "truncated": false
     }
   },
-  "event_count": 92
+  "event_count": 186
 }

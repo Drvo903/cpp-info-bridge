@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T07:53:18.487626+00:00",
+  "updated_at": "2026-11-15T19:23:12.468592+00:00",
   "collector_status": "ok",
   "source": "CPP official eventMainListV2 endpoint (unofficial access)",
   "api_url": "https://www.allcpp.cn/allcpp/event/eventMainListV2.do",
@@ -44,8 +44,8 @@
       "truncated": false
     },
     "上海": {
-      "total_reported": 31,
-      "fetched": 31,
+      "total_reported": 29,
+      "fetched": 29,
       "truncated": false
     },
     "南京": {
@@ -104,8 +104,8 @@
       "truncated": false
     },
     "ONLY": {
-      "total_reported": 169,
-      "fetched": 169,
+      "total_reported": 161,
+      "fetched": 161,
       "truncated": false
     },
     "TRPG": {
@@ -139,8 +139,8 @@
       "truncated": false
     },
     "型月": {
-      "total_reported": 4,
-      "fetched": 4,
+      "total_reported": 3,
+      "fetched": 3,
       "truncated": false
     },
     "月姬": {
@@ -149,8 +149,8 @@
       "truncated": false
     },
     "Fate": {
-      "total_reported": 4,
-      "fetched": 4,
+      "total_reported": 3,
+      "fetched": 3,
       "truncated": false
     },
     "白色相簿": {
@@ -189,5 +189,5 @@
       "truncated": false
     }
   },
-  "event_count": 186
+  "event_count": 177
 }

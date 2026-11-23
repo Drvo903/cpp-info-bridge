@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T20:22:29.135012+00:00",
+  "updated_at": "2026-11-23T09:08:42.011413+00:00",
   "collector_status": "ok",
   "source": "CPP official eventMainListV2 endpoint (unofficial access)",
   "api_url": "https://www.allcpp.cn/allcpp/event/eventMainListV2.do",
@@ -39,13 +39,13 @@
   "warnings": {},
   "keyword_counts": {
     "杭州": {
-      "total_reported": 33,
-      "fetched": 33,
+      "total_reported": 34,
+      "fetched": 34,
       "truncated": false
     },
     "上海": {
-      "total_reported": 38,
-      "fetched": 38,
+      "total_reported": 39,
+      "fetched": 39,
       "truncated": false
     },
     "南京": {
@@ -104,8 +104,8 @@
       "truncated": false
     },
     "ONLY": {
-      "total_reported": 165,
-      "fetched": 165,
+      "total_reported": 169,
+      "fetched": 169,
       "truncated": false
     },
     "TRPG": {
@@ -189,5 +189,5 @@
       "truncated": false
     }
   },
-  "event_count": 184
+  "event_count": 188
 }
